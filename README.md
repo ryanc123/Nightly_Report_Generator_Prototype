@@ -10,6 +10,6 @@ For now, NRG just tells us what is observable, what was observed, and reccomends
 ---
 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Example output")
+![alt text](https://github.com/ryanc123/Nightly_Report_Generator_Prototype/blob/master/files/2019-06-16.png "Example output")
 
 
