@@ -1,2 +1,9 @@
-# Nightly_Report_Generator_Prototype
-Generates an automatic report detailing what parts of the sky were looked at
+# Nightly Report Generator (NRG)
+Generates an automatic report detailing what parts of the sky were looked at.
+
+~~~
+
+
+
+
+
