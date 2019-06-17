@@ -5,11 +5,11 @@ Generates an automatic report detailing what parts of the sky were looked at.
 
 Currently NRG exists as a humble informant. A more complex version is in development that will act as the interface between observation scheduling and observations. In other words, NRG will (eventually) be able to tell a scheduler what observations should be taken and when. In addition, will resubmit observations that were either too low quality or need revisiting for any reason.
 
-For now, NRG just tells us what was observed and if reccomends what fields we should revisit. 
+For now, NRG just tells us what is observable, what was observed, and reccomends what fields we should revisit. 
 
 ---
 
 
-
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Example output")
 
 
